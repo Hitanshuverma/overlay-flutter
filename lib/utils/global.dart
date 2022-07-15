@@ -1,0 +1,1 @@
+int widgetState = 0;
